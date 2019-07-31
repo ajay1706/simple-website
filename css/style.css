@@ -85,3 +85,7 @@ padding: 6px 40px 6px 40px;
 footer a{
   text-decoration: none;
 }
+.separator{
+  color: #444444;
+  font-size: 13px
+}
