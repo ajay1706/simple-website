@@ -35,6 +35,9 @@ margin: 0}
 .menu a:hover{
   color: #ecf2f3;
 }
+#home-image img{
+  width: 100%
+}
 
 aside{
   float: left;
@@ -88,4 +91,23 @@ footer a{
 .separator{
   color: #444444;
   font-size: 13px
+}
+
+
+/****** About page styles*******/
+
+#about-page #home-image img{
+  width: 70%;
+  float: left;
+  margin-bottom: 20px
+}
+
+#about-page #profile-info{
+  float: right;
+  width: 20%;
+  margin: 5px
+}
+
+#about-page #description{
+  clear: both;
 }
